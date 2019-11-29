@@ -10,8 +10,8 @@
     "EXIT": "Çıkış",
     "SERVER_BROWSER": "Sunucu Tarayıcısı",
     "SEARCH": "Arama",
-    "HIDE_FULL": "Doluları Gizle",
-    "HIDE_EMPTY": "Boşları Gizle",
+    "HIDE_FULL": "Dolu Sunucuları Gizle",
+    "HIDE_EMPTY": "Boş Sunucuları Gizle",
     "HIDE_LOCKED": "Kilitlileri Gizle",
     "UPDATE": "Güncelle",
     "SERVER_NAME": "Sunucu adı",
@@ -50,6 +50,6 @@
     "ABORT": "İptal",
     "CLOSE": "Kapat",
     "PASSWORD": "Şifre",
-    "LEAVE_EMPTY_IF_NONE": "Eğer hiçse boş bırakın"
+    "LEAVE_EMPTY_IF_NONE": "Eğer şifre yoksa boş bırakın"
   }
 }
